@@ -1,0 +1,23 @@
+body {
+    background-color: #38060b9f;
+}
+
+div {
+    text-align: center;
+}
+
+.underlined-title {
+    text-decoration: underline;
+}
+
+ol li, ul li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol li {
+    padding: 1%;
+}
+
+ul li {
+    padding: 0.5%;
+}
